@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "jsdom": "^15.1.1"
+    "jsdom": "^16.5.0"
   },
   "devDependencies": {
     "nexe": "^3.3.2"
